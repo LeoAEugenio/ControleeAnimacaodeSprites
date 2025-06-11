@@ -1,0 +1,3 @@
+C:/Users/leleco/Desktop/Faculdade Ciência da Computação/ProcessoGrafico/Controle e Animação de Sprites2/build/_deps/glfw-subbuild/CMakeFiles/glfw-populate.dir
+C:/Users/leleco/Desktop/Faculdade Ciência da Computação/ProcessoGrafico/Controle e Animação de Sprites2/build/_deps/glfw-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/leleco/Desktop/Faculdade Ciência da Computação/ProcessoGrafico/Controle e Animação de Sprites2/build/_deps/glfw-subbuild/CMakeFiles/rebuild_cache.dir
